@@ -13,7 +13,7 @@ import time
 def clickAction():
 	os.system("./autoClicker -x 242 -y 670")
 	os.system("./autoClicker -x 242 -y 720")
-	time.sleep(1)
+	time.sleep(2)
 	print "clicking!!"
 
 def start():
